@@ -10,7 +10,7 @@
         "url": "https://github.com/ukkari-new/Baileys"
     },
     "license": "MIT",
-    "author": "7eppeli.pdf",
+    "author": "Ukkaripdf",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
